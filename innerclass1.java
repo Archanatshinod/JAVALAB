@@ -37,7 +37,8 @@ System.out.println("sport name:"+sportname);
 System.out.println("activity points:"+ap);
 }
 }}
-class Main()
+class Main
+  
 {
 public static void main(String args[])
 {
